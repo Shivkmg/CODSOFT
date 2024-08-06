@@ -1,5 +1,5 @@
 # CODSOFT_WEB_DEVELOPMENT_INTERNSHIP 
-I have completed all task which given for my internship as aweb developer at codsoft.
+I have completed all task which given for my internship as a web developer at @Codesoft
 
 LEVEL 1 :-
 
